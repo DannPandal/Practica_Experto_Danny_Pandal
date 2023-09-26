@@ -104,6 +104,9 @@
 						<exclude>com/devp/practice2Semana9/model/*</exclude>
 						<exclude>com/devp/practice2Semana9/repository/*</exclude>
 						<exclude>com/devp/practice2Semana9/exception/*</exclude>
+						<exclude>com/devp/practice2Semana9/service/*</exclude>
+						<exclude>com/devp/practice2Semana9/service/implement/AddressServiceImplement</exclude>
+						<exclude>com/devp/practice2Semana9/service/implement/AuthorServiceImplement</exclude>
 					</excludes>
 				</configuration>
 			</plugin>
